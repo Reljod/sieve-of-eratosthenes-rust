@@ -1,9 +1,8 @@
 pub mod prime;
 
 use env_logger::Env;
+use algorithm::get_all_primes;
 use algorithm::get_highest_prime_number;
-
-use crate::prime::sieve_of_eratosthenes::get_all_primes;
 
 fn main() {
     env_logger::Builder::from_env(Env::default().default_filter_or("info")).init();
