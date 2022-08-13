@@ -27,4 +27,4 @@ Highest primes below 1000: 997
 - [x] Improve implementation of Sieve of Eratosthenes.
 - [x] Create a library that exposes getting all primes and getting highest prime number using Sieve of Eratosthenes.    
 - [x] I will be adding benchmarks and make this into a library.
-- [] Create a CLI Application that runs all the algorithms.
+- [ ] Create a CLI Application that runs all the algorithms.
